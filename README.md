@@ -6,8 +6,6 @@ Questo repository contiene le risposte all'esercizio teorico sui fondamenti di R
 
 React è una libreria JavaScript open source sviluppata da Meta per creare interfacce utente (UI) dinamiche e veloci, specialmente per applicazioni web a pagina singola (SPA). Si basa sulla creazione di componenti riutilizzabili e sull'uso del Virtual DOM per aggiornare le pagine in modo efficiente senza ricaricarle
 
-React ha un **Virtual DOM** che aggiorna dinamicamente ogni componente di pagina che lo richiede, senza la necessità di refreshare tutta la pagina. L'esperienza utente rimane dinamica, come se cambiassimo pagina, ma in realtà lavoriamo su una **Single Page Application (SPA)**, avendo un codice più organizzato e pulito.
-
 ### 2. ReactJS è un framework, non una libreria.
 
 **Falso**: è una libreria.
